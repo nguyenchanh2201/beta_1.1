@@ -1,0 +1,180 @@
+MODULE: 000 Computing feature from audio files
+Extracting features from  segments starting at  (part 1 of 1) 
+Extracting features from  segments starting at  (part 1 of 1) 
+Feature extraction is done
+MODULE: 00 verify training files
+    Phase 1: Checking to see if the dict and filler dict agrees with the phonelist file.
+WARNING: The phonelist (/home/nguyenchanh/Documents/beta/etc/beta.phone) does not define the phone SIL (required!)
+        Found 50 words using 54 phones
+WARNING: This phone (SIL) occurs in the dictionary (/home/nguyenchanh/Documents/beta/etc/beta.dic), but not in the phonelist (/home/nguyenchanh/Documents/beta/etc/beta.phone)
+    Phase 2: Checking to make sure there are not duplicate entries in the dictionary
+    Phase 3: Check general format for the fileids file; utterance length (must be positive); files exist
+    Phase 4: Checking number of lines in the transcript file should match lines in fileids file
+    Phase 5: Determine amount of training data, see if n_tied_states seems reasonable.
+        Estimated Total Hours Training: 0.305522222222222
+ERROR: Not enough data for the training, we can only train CI models (set CFG_CD_TRAIN to "no")
+    Phase 6: Checking that all the words in the transcript are in the dictionary
+        Words in dictionary: 47
+        Words in filler dictionary: 3
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn vaf quajt owr phofng ngur laafu moojt </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst ddefn vaf quajt owr phofng khasch laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt quajt vaf ddefn owr phofng ngur laafu nawm </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst quajt vaf ddefn owr phofng khasch laafu sasu </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt taast car casc quajt vaf ddefn owr beesp laafu bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst ddieefu hofa owr phofng ngur laafu chisn trawm ler ba </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> phofng hai nghifn chisn trawm ler bary </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> giarm nhajc smart home laafu chin muwowi ba </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt smart home vaf tawst taast car smart home </s> ). Do cases match?
+WARNING: Utterance ID mismatch on line 35: train/speaker_01/0035 vs 00035
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> muwowfi moojt nghifn chin trawm tasm muwowi bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: laau was in the transcript file, but is not in the dictionary (<s> smart home kieerm tra baso chasy ddefn laau bary muwowi </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm vaf baso chasy </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm laafu moojt vaf baso chasy laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> hai baso chasy laafu boosn vaf moojt choosng troojm laafu chisn </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn laafu boosn vaf ddieefu hofa laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn vaf quajt owr phofng ngur laafu moojt </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst ddefn vaf quajt owr phofng khasch laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt quajt vaf ddefn owr phofng ngur laafu nawm </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst quajt vaf ddefn owr phofng khasch laafu sasu </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt taast car casc quajt vaf ddefn owr beesp laafu bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst ddieefu hofa owr phofng ngur laafu chisn trawm ler ba </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> phofng hai nghifn chisn trawm ler bary </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> giarm nhajc smart home laafu chin muwowi ba </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt smart home vaf tawst taast car smart home </s> ). Do cases match?
+WARNING: Utterance ID mismatch on line 85: train/speaker_02/0085 vs 00085
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> muwowfi moojt nghifn chin trawm tasm muwowi bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: laau was in the transcript file, but is not in the dictionary (<s> smart home kieerm tra baso chasy ddefn laau bary muwowi </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm vaf baso chasy </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm laafu moojt vaf baso chasy laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> hai baso chasy laafu boosn vaf moojt choosng troojm laafu chisn </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn laafu boosn vaf ddieefu hofa laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn vaf quajt owr phofng ngur laafu moojt </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst ddefn vaf quajt owr phofng khasch laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt quajt vaf ddefn owr phofng ngur laafu nawm </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst quajt vaf ddefn owr phofng khasch laafu sasu </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt taast car casc quajt vaf ddefn owr beesp laafu bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst ddieefu hofa owr phofng ngur laafu chisn trawm ler ba </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> phofng hai nghifn chisn trawm ler bary </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> giarm nhajc smart home laafu chin muwowi ba </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt smart home vaf tawst taast car smart home </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> muwowfi moojt nghifn chin trawm tasm muwowi bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: laau was in the transcript file, but is not in the dictionary (<s> smart home kieerm tra baso chasy ddefn laau bary muwowi </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm vaf baso chasy </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm laafu moojt vaf baso chasy laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> hai baso chasy laafu boosn vaf moojt choosng troojm laafu chisn </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn laafu boosn vaf ddieefu hofa laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn vaf quajt owr phofng ngur laafu moojt </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst ddefn vaf quajt owr phofng khasch laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt quajt vaf ddefn owr phofng ngur laafu nawm </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst quajt vaf ddefn owr phofng khasch laafu sasu </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt taast car casc quajt vaf ddefn owr beesp laafu bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst ddieefu hofa owr phofng ngur laafu chisn trawm ler ba </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> phofng hai nghifn chisn trawm ler bary </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> giarm nhajc smart home laafu chin muwowi ba </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt smart home vaf tawst taast car smart home </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> muwowfi moojt nghifn chin trawm tasm muwowi bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: laau was in the transcript file, but is not in the dictionary (<s> smart home kieerm tra baso chasy ddefn laau bary muwowi </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm vaf baso chasy </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm laafu moojt vaf baso chasy laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> hai baso chasy laafu boosn vaf moojt choosng troojm laafu chisn </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn laafu boosn vaf ddieefu hofa laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn vaf quajt owr phofng ngur laafu moojt </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst ddefn vaf quajt owr phofng khasch laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt quajt vaf ddefn owr phofng ngur laafu nawm </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst quajt vaf ddefn owr phofng khasch laafu sasu </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt taast car casc quajt vaf ddefn owr beesp laafu bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst ddieefu hofa owr phofng ngur laafu chisn trawm ler ba </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> phofng hai nghifn chisn trawm ler bary </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> giarm nhajc smart home laafu chin muwowi ba </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt smart home vaf tawst taast car smart home </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> muwowfi moojt nghifn chin trawm tasm muwowi bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: laau was in the transcript file, but is not in the dictionary (<s> smart home kieerm tra baso chasy ddefn laau bary muwowi </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm vaf baso chasy </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm laafu moojt vaf baso chasy laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> hai baso chasy laafu boosn vaf moojt choosng troojm laafu chisn </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn laafu boosn vaf ddieefu hofa laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn vaf quajt owr phofng ngur laafu moojt </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst ddefn vaf quajt owr phofng khasch laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt quajt vaf ddefn owr phofng ngur laafu nawm </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst quajt vaf ddefn owr phofng khasch laafu sasu </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt taast car casc quajt vaf ddefn owr beesp laafu bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst ddieefu hofa owr phofng ngur laafu chisn trawm ler ba </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> phofng hai nghifn chisn trawm ler bary </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> giarm nhajc smart home laafu chin muwowi ba </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt smart home vaf tawst taast car smart home </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> muwowfi moojt nghifn chin trawm tasm muwowi bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: laau was in the transcript file, but is not in the dictionary (<s> smart home kieerm tra baso chasy ddefn laau bary muwowi </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm vaf baso chasy </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm laafu moojt vaf baso chasy laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> hai baso chasy laafu boosn vaf moojt choosng troojm laafu chisn </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn laafu boosn vaf ddieefu hofa laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn vaf quajt owr phofng ngur laafu moojt </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst ddefn vaf quajt owr phofng khasch laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt quajt vaf ddefn owr phofng ngur laafu nawm </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst quajt vaf ddefn owr phofng khasch laafu sasu </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt taast car casc quajt vaf ddefn owr beesp laafu bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst ddieefu hofa owr phofng ngur laafu chisn trawm ler ba </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> phofng hai nghifn chisn trawm ler bary </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> giarm nhajc smart home laafu chin muwowi ba </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt smart home vaf tawst taast car smart home </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> muwowfi moojt nghifn chin trawm tasm muwowi bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: laau was in the transcript file, but is not in the dictionary (<s> smart home kieerm tra baso chasy ddefn laau bary muwowi </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm vaf baso chasy </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm laafu moojt vaf baso chasy laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> hai baso chasy laafu boosn vaf moojt choosng troojm laafu chisn </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn laafu boosn vaf ddieefu hofa laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn vaf quajt owr phofng ngur laafu moojt </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst ddefn vaf quajt owr phofng khasch laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt quajt vaf ddefn owr phofng ngur laafu nawm </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst quajt vaf ddefn owr phofng khasch laafu sasu </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt taast car casc quajt vaf ddefn owr beesp laafu bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst taast car casc quajt vaf ddefn owr saan laafu tasm trawm ler tasm </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> tawst ddieefu hofa owr phofng ngur laafu chisn trawm ler ba </s> ). Do cases match?
+WARNING: This word: ler was in the transcript file, but is not in the dictionary (<s> phofng hai nghifn chisn trawm ler bary </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> giarm nhajc smart home laafu chin muwowi ba </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt smart home vaf tawst taast car smart home </s> ). Do cases match?
+WARNING: This word: chin was in the transcript file, but is not in the dictionary (<s> muwowfi moojt nghifn chin trawm tasm muwowi bary </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> smart home vaf smart home vaf smart home </s> ). Do cases match?
+WARNING: This word: laau was in the transcript file, but is not in the dictionary (<s> smart home kieerm tra baso chasy ddefn laau bary muwowi </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm vaf baso chasy </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> kieerm tra choosng troojm laafu moojt vaf baso chasy laafu hai </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> hai baso chasy laafu boosn vaf moojt choosng troojm laafu chisn </s> ). Do cases match?
+WARNING: This word: vaf was in the transcript file, but is not in the dictionary (<s> baajt ddefn laafu boosn vaf ddieefu hofa laafu hai </s> ). Do cases match?
+WARNING: Bad line in transcript:
+
+WARNING: Bad line in transcript:
+
+    Phase 7: Checking that all the phones in the transcript are in the phonelist, and all phones in the phonelist appear at least once
+Sphinxtrain path: /usr/local/lib/sphinxtrain
+Sphinxtrain binaries path: /usr/local/libexec/sphinxtrain
+Running the training

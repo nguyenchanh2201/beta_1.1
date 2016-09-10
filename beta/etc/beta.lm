@@ -1,0 +1,1398 @@
+
+\data\
+ngram 1=407
+ngram 2=869
+ngram 3=109
+
+\1-grams:
+-2.837059	.	-0.07889277
+-2.837059	100%	-0.07889277
+-2.837059	11	-0.07889277
+-2.837059	15	-0.07889277
+-2.837059	3D,	-0.07889278
+-2.837059	5	-0.07889277
+-2.837059	50%	-0.07889277
+-1.809144	</s>
+-99	<s>	-0.1133906
+-2.837059	Bajn	-0.07889278
+-2.712715	Bill	-0.2220412
+-2.837059	Bkav	-0.07889277
+-2.837059	Chajm	-0.07889277
+-2.837059	Chawrng	-0.07889277
+-2.837059	Chir	-0.07889277
+-2.837059	Gates	-0.07889277
+-2.837059	Haafu	-0.07889277
+-2.712715	Heej	-0.2220412
+-2.837059	Hown	-0.07889277
+-2.712715	Khi	-0.07889277
+-2.543559	Khoong	-0.168908
+-2.712715	Moojt	-0.07889277
+-2.712715	Nhaf	-0.2220412
+-2.837059	Ra	-0.07889277
+-2.837059	Sex	-0.07889278
+-2.837059	SmartHome	-0.07889277
+-2.837059	SmartHome,	-0.07889277
+-2.837059	Thaajt	-0.07889277
+-2.837059	Thoong	-0.07889278
+-2.837059	Tieeu	-0.07889277
+-2.712715	Tuy	-0.07889277
+-2.837059	Vafo	-0.07889277
+-2.712715	Vis	-0.2220412
+-2.837059	Vowsi	-0.07889278
+-2.712715	aam	-0.07889277
+-2.837059	ai	-0.07889278
+-2.837059	an	-0.07889277
+-2.837059	aro,	-0.07889277
+-2.543559	asnh	-0.2702446
+-2.396721	ba	-0.07889277
+-2.287183	ba.	-0.1445956
+-1.918419	baajt	-0.1940691
+-2.837059	baajt,	-0.07889277
+-2.543559	baasm	-0.07889278
+-1.961947	bajn	-0.132674
+-2.712715	bajn.	-0.07889276
+-2.287183	ban	-0.1833661
+-2.712715	barn	-0.07889278
+-2.837059	barng,	-0.07889277
+-2.837059	barng.	-0.07889277
+-2.543559	bary	-0.07889277
+-2.396721	bary.	-0.168908
+-2.287183	baso	-0.2625473
+-2.396721	bawfng	-0.1445955
+-2.837059	beesp	-0.07889277
+-2.837059	bieesn,	-0.07889277
+-2.837059	bieest	-0.07889277
+-2.837059	bifnh	-0.07889277
+-2.712715	bij	-0.07889277
+-2.396721	boosn	-0.07889277
+-2.712715	boosn.	-0.07889277
+-2.712715	buoori	-0.07889278
+-2.712715	caafn	-0.07889278
+-2.837059	caafu	-0.07889277
+-2.837059	cafi	-0.07889277
+-2.712715	car	-0.07889277
+-2.837059	carm	-0.07889278
+-2.543559	casc	-0.1215724
+-2.837059	casch	-0.07889277
+-2.712715	cawn	-0.07889277
+-2.712715	chajm	-0.2220412
+-2.837059	chajy	-0.07889277
+-2.837059	chasy	-0.07889277
+-2.837059	chasy.	-0.07889277
+-2.837059	chees	-0.07889277
+-2.837059	chia	-0.07889277
+-2.712715	chin	-0.07889277
+-2.199782	chir	-0.1411904
+-2.837059	chirnh	-0.07889277
+-2.837059	chis	-0.07889277
+-2.287183	chisn	-0.1215724
+-2.837059	chisn.	-0.07889277
+-2.837059	chisn.kieerm	-0.07889277
+-2.837059	chisnh	-0.07889277
+-2.543559	choosng	-0.2702446
+-2.837059	chuaarn	-0.07889278
+-2.837059	chufm,	-0.07889277
+-2.837059	chujc	-0.07889277
+-2.543559	chur	-0.07889277
+-2.837059	chur,	-0.07889277
+-2.837059	chur.	-0.07889276
+-2.837059	chusng	-0.07889277
+-2.837059	chuyeern	-0.07889277
+-2.543559	cofn	-0.07889277
+-2.837059	coi	-0.07889278
+-2.287183	coong	-0.189388
+-2.064783	cos	-0.1338105
+-2.837059	cow	-0.07889277
+-2.064783	cura	-0.1411905
+-2.837059	cuwra	-0.07889277
+-2.837059	cuwra,	-0.07889277
+-2.837059	cuwsng	-0.07889277
+-2.543559	cuxng	-0.1689079
+-2.837059	ddaafu	-0.07889277
+-2.837059	ddaji	-0.07889277
+-2.837059	ddang	-0.07889277
+-2.837059	ddasp	-0.07889278
+-2.837059	ddawjt	-0.07889277
+-2.712715	ddax	-0.07889277
+-2.837059	ddeem	-0.07889278
+-2.127058	ddeer	-0.208859
+-2.712715	ddeesn	-0.07889277
+-2.837059	ddeesn,	-0.07889277
+-1.842604	ddefn	-0.1519046
+-2.837059	ddem	-0.07889278
+-2.712715	ddi	-0.07889277
+-1.842604	ddieefu	-0.3916438
+-2.712715	ddieejn	-0.07889277
+-2.837059	ddieejn,	-0.07889277
+-2.837059	ddieerm	-0.07889278
+-2.837059	ddifnh	-0.07889278
+-2.837059	ddoofng	-0.07889277
+-2.287183	ddooj	-0.1152124
+-2.396721	ddoojng	-0.07889277
+-2.837059	ddoojng…	-0.07889277
+-2.837059	ddoori	-0.07889277
+-2.712715	ddos	-0.07889277
+-2.837059	ddosng	-0.07889277
+-2.837059	ddowx	-0.07889277
+-2.064783	dduwowjc	-0.07889278
+-2.837059	dieejn	-0.07889277
+-2.837059	do	-0.07889277
+-2.712715	duj	-0.07889277
+-2.837059	dujng	-0.07889277
+-2.837059	dung	-0.07889278
+-2.837059	gawjp,	-0.07889277
+-2.543559	gia	-0.1306357
+-2.837059	gian	-0.07889277
+-2.712715	giao	-0.07889277
+-2.396721	giarm	-0.1445956
+-2.837059	giojng	-0.07889277
+-2.837059	gioosng	-0.07889278
+-2.837059	gios,	-0.07889277
+-2.837059	giowf.	-0.07889277
+-2.837059	giowsi	-0.07889277
+-2.396721	giusp	-0.2139454
+-2.837059	giuwowfng	-0.07889277
+-2.837059	giuwowfng,	-0.07889277
+-2.543559	hafng	-0.07889277
+-2.396721	hai	-0.1152124
+-2.543559	hai.	-0.1215724
+-2.837059	hajn	-0.07889277
+-2.837059	hawst,	-0.07889277
+-2.837059	hay	-0.07889278
+-1.809144	heej	-0.630524
+-2.837059	heest	-0.07889277
+-2.837059	hes	-0.07889277
+-2.543559	hieejn	-0.07889277
+-2.837059	hieeru	-0.07889277
+-2.712715	hifnh	-0.07889277
+-2.837059	hifnh.	-0.07889277
+-2.543559	hoajt	-0.07889278
+-2.837059	hoawjc	-0.07889278
+-2.837059	hofa	-0.07889277
+-2.712715	hojc	-0.2220412
+-2.837059	home	-0.07889277
+-2.837059	home.	-0.07889277
+-2.837059	howjp	-0.07889277
+-2.837059	hown,	-0.07889277
+-2.837059	huwxu.	-0.07889276
+-2.712715	keso	-0.07889277
+-2.837059	khar	-0.07889277
+-2.543559	khasc	-0.07889277
+-2.543559	khasch	-0.07889277
+-2.837059	khasch.	-0.07889277
+-2.837059	khasch”,	-0.07889277
+-2.837059	khawsp	-0.07889277
+-2.010329	khi	-0.1367848
+-2.837059	khieern	-0.07889277
+-2.837059	khieern.	-0.07889277
+-2.837059	khieesn	-0.07889278
+-2.712715	khoong	-0.07889277
+-2.837059	khori	-0.07889277
+-2.837059	khowri	-0.07889277
+-2.712715	khu	-0.07889277
+-2.837059	kieejm	-0.07889277
+-1.961947	kieerm	-0.6118854
+-2.712715	kijch	-0.2220412
+-2.837059	kisch	-0.07889278
+-1.87886	laafu	-0.230016
+-2.837059	laau	-0.07889278
+-2.543559	laf	-0.07889277
+-2.837059	lafm	-0.07889278
+-2.837059	lajnh	-0.07889277
+-2.712715	leejnh	-0.2220412
+-2.837059	leejnh”,	-0.07889277
+-2.837059	leen	-0.07889277
+-2.712715	leen,	-0.07889277
+-2.837059	ler	-0.07889277
+-2.837059	lowsn	-0.07889278
+-2.837059	luwowjng	-0.07889277
+-2.837059	luwowjng.	-0.07889277
+-2.837059	lys	-0.07889277
+-2.837059	maaxm	-0.07889277
+-2.712715	maf	-0.2220412
+-2.712715	mafn	-0.1689079
+-2.837059	mafnh	-0.07889277
+-2.837059	mast	-0.07889277
+-2.543559	masy	-0.2702446
+-2.837059	mifnh	-0.07889277
+-2.837059	mifnh,	-0.07889277
+-2.837059	minh	-0.07889278
+-2.837059	minh,	-0.07889278
+-2.837059	mof	-0.07889277
+-2.837059	moo	-0.07889277
+-1.918419	moojt	-0.1152124
+-2.837059	moojt.	-0.07889277
+-2.837059	moosc	-0.07889277
+-2.837059	moost.	-0.07889277
+-2.396721	mooxi	-0.1445955
+-2.837059	mowr,	-0.07889277
+-2.712715	mowsi	-0.07889277
+-2.064783	muwowfi	-0.1256686
+-2.837059	muwowfi.	-0.07889278
+-2.064783	muwowi	-0.2513894
+-2.712715	muwowi.	-0.07889277
+-2.712715	muwsc	-0.07889277
+-2.712715	nafo	-0.07889277
+-2.543559	nafy	-0.07889278
+-2.837059	nafy,	-0.07889277
+-2.396721	nawm	-0.183366
+-2.837059	nawm.	-0.07889277
+-2.712715	nawng	-0.07889277
+-2.837059	nay,	-0.07889277
+-2.837059	neefn	-0.07889277
+-2.837059	neen	-0.07889277
+-2.837059	ngaafm	-0.07889277
+-2.712715	ngafy	-0.07889277
+-2.837059	ngafy,	-0.07889278
+-2.837059	ngheej	-0.07889277
+-2.837059	nghi	-0.07889277
+-2.837059	nghieejm	-0.07889277
+-2.287183	nghifn	-0.1152124
+-2.837059	nghix	-0.07889278
+-2.837059	ngoafi	-0.07889278
+-2.543559	ngooi	-0.2702446
+-2.837059	ngur	-0.07889277
+-2.837059	ngur,	-0.07889277
+-2.837059	ngur.	-0.07889277
+-2.837059	ngur”	-0.07889277
+-2.712715	nguwowfi	-0.07889277
+-2.837059	nguwowfi,	-0.07889277
+-2.837059	nguwowfi.	-0.07889278
+-2.837059	nhaajp	-0.07889277
+-2.837059	nhaan.	-0.07889277
+-2.010329	nhaf	-0.2381005
+-2.712715	nhaf,	-0.07889278
+-2.837059	nhafng	-0.07889277
+-2.837059	nhaf”,	-0.07889277
+-2.396721	nhajc	-0.1445956
+-2.837059	nhau,	-0.07889277
+-2.837059	nhau.	-0.07889277
+-2.837059	nhawsc	-0.07889278
+-2.837059	nhej	-0.07889277
+-2.712715	nhieefu	-0.07889277
+-2.712715	nhieejt	-0.2220412
+-2.837059	nhieen	-0.07889277
+-2.837059	nhieen,	-0.07889277
+-2.837059	nhu	-0.07889277
+-2.543559	nhuw	-0.07889277
+-2.837059	nhuw:	-0.07889278
+-2.837059	nhuwng	-0.07889277
+-2.199782	nhuwxng	-0.07889277
+-2.837059	ninh,	-0.07889277
+-2.837059	noori	-0.07889277
+-2.837059	nosi	-0.07889277
+-2.837059	nosng	-0.07889277
+-2.712715	nust	-0.1689079
+-2.837059	oong.	-0.07889277
+-2.010329	owr	-0.1921125
+-2.837059	phaafn	-0.07889277
+-2.712715	phari	-0.07889277
+-2.712715	phast	-0.07889277
+-2.837059	phast…	-0.07889277
+-2.837059	phesp.	-0.07889277
+-1.918419	phofng	-0.2018944
+-2.837059	phoor	-0.07889277
+-2.837059	phorng	-0.07889277
+-2.543559	phuf	-0.2702446
+-2.837059	phujc	-0.07889277
+-2.837059	phus	-0.07889277
+-2.712715	phust	-0.07889277
+-2.837059	qua	-0.07889277
+-2.199782	quajt	-0.164114
+-2.837059	quan	-0.07889277
+-2.837059	quan,	-0.07889277
+-2.837059	quen	-0.07889277
+-2.712715	ra	-0.07889277
+-2.837059	raast	-0.07889277
+-2.543559	refm	-0.07889277
+-2.837059	refm,	-0.07889277
+-2.837059	rowx,	-0.07889277
+-2.712715	ruwjc	-0.2220412
+-2.543559	saan	-0.07889277
+-2.837059	saau	-0.07889277
+-2.837059	safng	-0.07889277
+-2.837059	sang	-0.07889277
+-2.396721	sasng	-0.07889277
+-2.837059	sasng,	-0.07889278
+-2.837059	sasng.	-0.07889277
+-2.712715	sasu	-0.07889277
+-2.837059	sasu.	-0.07889277
+-2.712715	sau	-0.07889277
+-2.837059	sawxn	-0.07889277
+-2.837059	sawxn,	-0.07889277
+-2.396721	sex	-0.07889278
+-2.712715	sinh	-0.2220412
+-2.010329	smart	-0.4920934
+-2.837059	smartphone	-0.07889277
+-2.837059	smartphone,	-0.07889278
+-2.837059	soast	-0.07889278
+-2.712715	sowr	-0.07889277
+-2.712715	suwj	-0.2220412
+-2.837059	suwr	-0.07889277
+-2.712715	ta	-0.07889277
+-2.199782	taast	-0.5712746
+-2.837059	tarng	-0.07889277
+-2.287183	tasm	-0.1306357
+-2.837059	tasm.	-0.07889277
+-2.396721	tawng	-0.2139454
+-2.837059	tawsc,	-0.07889277
+-2.837059	tawsc.	-0.07889277
+-1.961947	tawst	-0.2132088
+-2.837059	tees,	-0.07889277
+-2.837059	thaajm	-0.07889277
+-2.837059	thaan	-0.07889277
+-2.837059	thafnh	-0.07889277
+-2.837059	thanh	-0.07889277
+-2.712715	thay	-0.07889277
+-2.837059	theer	-0.07889277
+-2.712715	thees	-0.2220412
+-2.837059	thees,	-0.07889277
+-2.712715	theo	-0.07889277
+-2.837059	thieejn,	-0.07889277
+-2.712715	thieest	-0.2220412
+-2.837059	thisch	-0.07889278
+-2.837059	thisch,	-0.07889277
+-2.837059	thoaji	-0.07889277
+-2.127058	thoong	-0.1338104
+-2.712715	thoosng	-0.1181362
+-2.837059	thoosng:	-0.07889277
+-2.712715	thosi	-0.2220412
+-2.396721	thowfi	-0.1445955
+-2.712715	thuwjc	-0.07889277
+-2.543559	thuwowfng	-0.1689079
+-2.837059	thuwowfng.	-0.07889277
+-2.712715	tieejn	-0.2220412
+-2.837059	tieen	-0.07889277
+-2.837059	tieesn	-0.07889277
+-2.837059	tieesng	-0.07889277
+-2.543559	tieesp	-0.07889277
+-2.837059	tieest	-0.07889277
+-2.837059	tisnh	-0.07889277
+-2.837059	toosi	-0.07889277
+-2.543559	towsi	-0.07889277
+-2.712715	tra	-0.1215724
+-2.837059	traafn,	-0.07889277
+-2.837059	trang	-0.07889277
+-2.837059	tranh...	-0.07889277
+-2.837059	trari	-0.07889277
+-2.837059	trasi	-0.07889277
+-2.010329	trawm	-0.2418222
+-2.396721	treen	-0.1445956
+-2.396721	trong	-0.07889277
+-2.837059	troojm	-0.07889277
+-2.837059	trowj	-0.07889277
+-2.543559	trowr	-0.1689079
+-2.712715	truwjc	-0.07889277
+-2.837059	truwowsc	-0.07889278
+-2.712715	tuwf	-0.07889277
+-2.127058	tuwj	-0.6382214
+-2.837059	tuwowng	-0.07889278
+-2.837059	tuyeejt	-0.07889277
+-2.712715	tyr	-0.2220412
+-2.837059	uwa	-0.07889277
+-2.543559	uwsng	-0.07889277
+-1.809144	vaf	-0.09441029
+-2.837059	vafi	-0.07889277
+-2.396721	vafo	-0.07889277
+-2.712715	veef	-0.07889277
+-2.712715	vieejc	-0.07889277
+-2.837059	vif	-0.07889277
+-2.837059	vis	-0.07889277
+-2.837059	vowfi	-0.07889278
+-2.287183	vowsi	-0.07889277
+-2.837059	vuj.	-0.07889278
+-2.837059	vuj”	-0.07889278
+-2.837059	vuwjc	-0.07889277
+-2.837059	vuwjc,	-0.07889277
+-2.837059	xaam	-0.07889277
+-2.837059	xuoosng	-0.07889277
+-2.837059	“Tieesp	-0.07889277
+-2.837059	“Veef	-0.07889277
+-2.837059	“luwowfi”	-0.07889277
+-2.837059	“phujc	-0.07889277
+-2.837059	“ra	-0.07889277
+-2.837059	“Đi	-0.07889277
+
+\2-grams:
+-0.7564276	. tawst
+-0.7636223	100% ddeer
+-0.7764353	11 giowf.
+-0.7753924	15 phust
+-0.7588126	3D, owr
+-0.7753924	5 phust
+-0.7684859	50% ddooj
+-1.886522	<s> Chajm
+-1.886522	<s> Chir
+-1.886522	<s> Haafu
+-0.9966916	<s> Heej	-0.4070408
+-1.886522	<s> Hown
+-1.851755	<s> Khoong
+-1.87427	<s> Moojt
+-1.886522	<s> Ra
+-1.886522	<s> Thoong
+-1.886522	<s> Tieeu
+-1.87427	<s> Vis
+-1.674506	<s> baajt
+-0.7734045	Bajn cuxng
+-0.3967056	Bill Gates
+-1.074327	Bkav SmartHome
+-1.074327	Bkav SmartHome,
+-0.7636223	Chajm ddeer
+-0.7764353	Chawrng hajn
+-0.7540556	Chir moojt
+-1.072259	Gates mowsi
+-1.058682	Gates vowsi
+-0.7764353	Haafu heest
+-0.3963925	Heej thoosng	-0.09235983
+-0.7753924	Hown car
+-1.06833	Khi khasch
+-1.074327	Khi nghix
+-0.5668344	Khoong chir
+-1.224392	Khoong nhuwxng
+-1.072259	Moojt kijch
+-1.074327	Moojt vis
+-0.3928218	Nhaf thoong	-0.2160503
+-0.7753924	Ra leejnh
+-0.7734045	Sex laf
+-1.2384	SmartHome cofn
+-1.203743	SmartHome dduwowjc
+-1.224204	SmartHome vowsi
+-0.7564276	SmartHome, bajn
+-0.7753924	Thaajt tieejn
+-0.7734045	Thoong thuwowfng
+-0.7764353	Tieeu chuaarn
+-1.074327	Tuy nhieen
+-1.074327	Tuy nhieen,
+-0.7709382	Vafo mooxi
+-0.3963925	Vis duj
+-0.7588126	Vowsi nhaf
+-1.074327	aam luwowjng
+-1.074327	aam thanh
+-0.7734045	ai cuxng
+-0.7764353	an ninh,
+-0.7709382	aro, giusp
+-0.3321517	asnh sasng	-0.05992877
+-1.348013	ba boosn
+-1.312368	ba muwowfi
+-1.312368	ba muwowi
+-1.303896	ba trawm
+-0.9637072	ba. baajt
+-1.626363	ba. giarm
+-1.543807	ba. kieerm	-0.2160503
+-1.519442	ba. laafu
+-0.9637072	ba. phofng	-0.1300319
+-1.543807	ba. tawst
+-0.9647204	baajt ddefn
+-1.178021	baajt ddieefu	-0.2160503
+-1.742052	baajt owr
+-1.79852	baajt quajt
+-1.223687	baajt sasng
+-1.742052	baajt smart
+-0.9858572	baajt taast	-0.4070408
+-1.77887	baajt tuwj
+-0.7470164	baajt, heej
+-1.26385	baasm </s>
+-1.369148	baasm raast
+-1.348013	baasm treen
+-1.369148	baasm “Veef
+-1.876383	bajn caafn
+-0.9832873	bajn chir	-0.1261906
+-1.197039	bajn cos	-0.2160503
+-1.854719	bajn cuxng
+-1.888153	bajn ddowx
+-1.876383	bajn hifnh
+-1.78209	bajn nhuwxng
+-1.876383	bajn phari
+-1.876383	bajn ra
+-1.888153	bajn uwa
+-1.876383	bajn veef
+-1.017741	bajn. </s>
+-1.072259	bajn. Nhaf
+-0.5545259	ban ddeem
+-1.46227	ban ngafy
+-1.46627	ban ngafy,
+-1.247302	barn cafi
+-1.231244	barn nhajc
+-1.2384	barn thuwowfng
+-1.035462	barng, bajn
+-1.017741	barng, heej
+-0.7764353	barng. Bajn
+-1.365079	bary muwowi.
+-1.365079	bary sasu
+-1.338824	bary tasm
+-1.303896	bary trawm
+-0.8465499	bary. laafu
+-1.517066	bary. nawm
+-1.445342	bary. phofng
+-0.8513343	bary. tawst
+-0.3989215	baso chasy	-0.245332
+-1.545452	baso chasy.
+-1.524664	baso ddoojng
+-0.6964238	bawfng giojng	-0.4070408
+-1.29949	bawfng moojt
+-1.370882	bawfng “ra
+-0.7516965	beesp laafu
+-0.7753924	bieesn, maf
+-0.7753924	bieest ddeesn
+-0.7764353	bifnh nosng
+-1.425655	bij coong
+-1.457942	bij ddieejn	-0.2160504
+-1.393555	bij dduwowjc
+-1.436905	bij trong
+-1.462986	bij tuwowng
+-1.393555	boosn muwowi	-0.1258372
+-1.457942	boosn muwowi.
+-1.436905	boosn nawm
+-1.383362	boosn trawm
+-1.335702	boosn vaf
+-1.030964	boosn. baajt
+-1.035462	boosn. kieerm
+-1.247302	buoori sasng,
+-1.247302	buoori sasng.
+-1.247302	buoori toosi
+-1.2384	caafn baasm
+-1.244226	caafn chajm	-0.4070408
+-1.2384	caafn towsi
+-0.7470164	caafu vaf
+-0.7764353	cafi ddawjt
+-1.436905	car bawfng
+-1.448453	car casc	-0.3334046
+-1.457942	car ddax
+-1.383362	car smart	-0.2160503
+-1.457942	car suwj
+-0.7734045	carm uwsng
+-1.414028	casc ddefn
+-1.414028	casc ddieefu
+-1.404337	casc heej
+-1.488693	casc quajt	-0.2160503
+-0.8700315	casc thieest	-0.7080708
+-0.7636223	casch thoong
+-1.040008	cawn nhaf
+-1.030964	cawn phofng
+-0.3950492	chajm vafo
+-0.7764353	chajy khawsp
+-1.171648	chasy ddefn
+-1.17788	chasy laafu
+-1.197131	chasy smart	-0.4070408
+-0.7564276	chasy. kieerm
+-0.7684859	chees ddooj
+-0.7764353	chia thafnh
+-1.044602	chin muwowi
+-1.040008	chin trawm
+-1.625948	chir bawfng
+-0.7566485	chir caafn	-0.2630236
+-1.568837	chir cos
+-1.506621	chir ddieefu
+-1.596454	chir nhuwxng
+-1.654352	chir vieejc
+-1.074327	chirnh moosc
+-1.040008	chirnh owr
+-0.7684859	chis vowsi
+-1.466019	chisn muwowfi
+-1.540827	chisn muwowfi.
+-1.466019	chisn muwowi
+-1.50049	chisn nghifn
+-0.8513892	chisn trawm	-0.1296984
+-1.030964	chisn. baajt
+-1.035462	chisn. tawst
+-0.7753924	chisn.kieerm tra
+-0.7753924	chisnh bajn.
+-0.3334337	choosng troojm	-0.07185013
+-0.7588126	chuaarn nhaf
+-0.7493502	chufm, ddefn
+-0.7684859	chujc coong
+-1.231244	chur ddoojng
+-1.247302	chur nhaan.
+-1.247302	chur nhuw:
+-0.7764353	chur, ddem
+-1.017741	chur. </s>
+-1.072259	chur. Vis
+-0.7753924	chusng ta
+-0.7764353	chuyeern sang
+-1.2384	cofn chur
+-1.203743	cofn dduwowjc
+-1.210457	cofn tuwj
+-0.7734045	coi laf
+-0.7930467	coong ngheej
+-1.466437	coong tawsc,
+-0.7930467	coong tawsc.
+-1.709378	cos khar
+-1.701564	cos nguwowfi
+-1.709378	cos nguwowfi,
+-1.709378	cos nguwowfi.
+-1.636467	cos nhuwxng
+-0.8082894	cos theer	-0.3203461
+-1.701564	cos thosi
+-0.7764353	cow quan,
+-1.641481	cura casc
+-1.661235	cura chisnh
+-0.7549983	cura gia
+-1.49518	cura heej
+-1.661235	cura oong.
+-1.661235	cura smartphone
+-0.7764353	cuwra hes
+-0.7564276	cuwra, tawst
+-0.7764353	cuwsng nhawsc
+-1.24905	cuxng bieest
+-0.5643428	cuxng cos	-0.2160503
+-0.7753924	ddaafu thees
+-0.7470164	ddaji </s>
+-0.7764353	ddang suwr
+-0.7734045	ddasp uwsng
+-0.7764353	ddawjt sawxn,
+-1.074327	ddax khieesn
+-1.074327	ddax sawxn
+-1.2384	ddeem laf
+-1.2384	ddeem nafy
+-1.210457	ddeem tuwj
+-0.512001	ddeer ddieefu	-0.08814333
+-1.63369	ddeer giusp
+-1.571849	ddeer khi
+-1.664266	ddeer lafm
+-1.64719	ddeer phuf
+-1.072259	ddeesn nhaf,
+-1.072259	ddeesn tyr
+-0.7564276	ddeesn, bajn
+-1.966693	ddefn chufm,
+-1.966693	ddefn hawst,
+-1.719251	ddefn laafu
+-1.966693	ddefn laau
+-1.953227	ddefn mowsi
+-1.928576	ddefn nafy
+-0.8313258	ddefn owr	-0.3120739
+-1.73811	ddefn phofng
+-1.899675	ddefn sasng
+-1.966693	ddefn traafn,
+-1.966693	ddefn tranh...
+-1.822984	ddefn tuwj
+-1.236359	ddefn vaf	-0.2160503
+-0.7734045	ddem towsi
+-1.074327	ddi leen
+-1.074327	ddi ngur,
+-1.267933	ddieefu chirnh
+-0.4438044	ddieefu hofa	-0.2384575
+-0.7961206	ddieefu khieern	-0.04339661
+-1.933123	ddieefu khieern.
+-1.933123	ddieefu nafy,
+-1.197131	ddieejn owr	-0.2160503
+-1.184203	ddieejn phofng
+-1.247302	ddieejn thoaji
+-0.7764353	ddieejn, mof
+-0.7734045	ddieerm khasc
+-0.7612108	ddifnh cos
+-0.7709382	ddoofng thowfi
+-1.530844	ddooj ddeer
+-1.604733	ddooj mast
+-1.586292	ddooj phuf
+-1.598313	ddooj ruwjc
+-0.9301906	ddooj sasng
+-1.571752	ddooj sex
+-1.553658	ddoojng cura
+-1.48485	ddoojng ddieefu
+-1.650141	ddoojng hojc
+-1.538997	ddoojng khi
+-1.538997	ddoojng owr
+-1.524814	ddoojng tawst	-0.1311405
+-1.650141	ddoojng thay
+-1.658019	ddoojng “phujc
+-0.7636223	ddoojng… ddeer
+-0.7709382	ddoori vafo
+-1.06833	ddos casc
+-1.017741	ddos heej
+-0.7764353	ddosng cuwra,
+-0.7764353	ddowx “luwowfi”
+-1.51108	dduwowjc baajt
+-1.658019	dduwowjc chia
+-1.658019	dduwowjc coi
+-1.658019	dduwowjc moo
+-1.658019	dduwowjc phaafn
+-1.658019	dduwowjc trang
+-1.568832	dduwowjc tuwj
+-1.650141	dduwowjc vieejc
+-0.7753924	dieejn truwjc
+-0.7753924	do ddos
+-1.2384	duj khasc
+-1.244226	duj sau
+-1.244226	duj theo
+-0.7753924	dujng thuwjc
+-0.7612108	dung dduwowjc
+-0.7764353	gawjp, truwowsc
+-1.451733	gia chur
+-1.464708	gia chur,
+-0.7926793	gia chur.
+-1.464708	gia ddifnh
+-1.058682	gian ban
+-1.044602	gian dduwowjc
+-1.074327	giao dieejn
+-1.06833	giao tieesp
+-1.367369	giarm aam
+-0.6924864	giarm nhajc
+-1.370882	giarm xuoosng
+-0.7764353	giojng nosi
+-0.7734045	gioosng nhuw
+-0.7493502	gios, ddieefu
+-0.7753924	giowf. Tuy
+-1.044602	giowsi cura
+-1.06833	giowsi nhuw
+-0.4508463	giusp bajn
+-1.369448	giusp giao
+-0.7709382	giuwowfng trong
+-0.7564276	giuwowfng, bajn
+-1.247302	hafng chujc
+-1.247302	hafng ddaafu
+-1.197131	hafng trawm
+-1.571752	hai ba
+-1.557683	hai baso
+-1.518021	hai muwowi
+-1.557683	hai nghifn
+-1.48168	hai phofng
+-0.91417	hai trawm
+-1.434084	hai. baajt
+-0.8650144	hai. giarm	-0.2160503
+-1.512616	hai. hai
+-1.44447	hai. kieerm
+-1.512616	hai. tawng
+-0.7709382	hajn vafo
+-0.7493502	hawst, ddefn
+-0.7734045	hay masy
+-1.817319	heej ddefn
+-0.1292549	heej thoosng	-0.05710264
+-1.913429	heej thoosng:
+-0.7764353	heest chusng
+-0.7764353	hes mowr,
+-1.247302	hieejn ddaji
+-1.231244	hieejn giusp
+-1.247302	hieejn xaam
+-0.7660473	hieeru chir
+-1.247302	hifnh carm
+-1.210457	hifnh ddeer
+-1.247302	hifnh dung
+-0.7753924	hifnh. Moojt
+-1.312368	hoajt cura
+-1.348013	hoajt ddoojng
+-1.26385	hoajt heej
+-1.357401	hoajt khasc
+-0.7734045	hoawjc masy
+-1.436905	hofa giarm
+-1.354143	hofa laafu
+-1.457942	hofa nhieejt
+-1.383362	hofa owr	-0.3578704
+-1.436905	hofa tawng
+-0.3963925	hojc thosi	-0.2160503
+-1.335702	home </s>
+-1.373402	home kieerm
+-1.354143	home laafu	-0.09151082
+-1.414689	home quajt
+-1.335702	home vaf	-0.1310567
+-1.190619	home. kieerm	-0.2160503
+-1.184203	home. moojt
+-1.231244	home. tawng
+-1.072259	howjp theo
+-1.058682	howjp vowsi
+-0.7709382	hown, giarm
+-1.017741	huwxu. </s>
+-1.072259	huwxu. Tuy
+-1.072259	keso leen,
+-1.074327	keso refm,
+-0.7753924	khar nawng
+-1.197131	khasc khi
+-1.247302	khasc nhau,
+-1.247302	khasc nhau.
+-1.357401	khasch asnh
+-1.287432	khasch baajt
+-1.369148	khasch ddeesn,
+-1.279428	khasch laafu
+-0.7564276	khasch. tawst
+-0.7493502	khasch”, ddefn
+-0.7753924	khawsp cawn
+-1.013611	khi bajn
+-1.637062	khi chir
+-1.701777	khi ddi
+-1.044014	khi khoong	-0.2160503
+-1.701777	khi phast
+-1.687302	khi tieesp
+-1.687302	khi trowr
+-1.435674	khieern </s>
+-1.496573	khieern nhaf
+-1.583097	khieern refm
+-1.537684	khieern taast	-0.2160504
+-1.523543	khieern thoong
+-1.596087	khieern truwjc
+-1.435674	khieern vaf
+-0.7470164	khieern. </s>
+-0.7588126	khieesn nhaf
+-1.044602	khoong cos
+-1.074327	khoong cuwsng
+-0.7764353	khori giuwowfng
+-0.7764353	khowri ddoojng…
+-1.074327	khu vuwjc
+-1.074327	khu vuwjc,
+-0.7753924	kieejm nawng
+-1.770396	kieerm soast
+-0.1310884	kieerm tra	-0.2762875
+-0.3963925	kijch barn
+-0.7734045	kisch hoajt
+-2.057123	laafu ba.
+-2.092055	laafu bary.
+-1.071762	laafu boosn	-0.3203461
+-2.163107	laafu boosn.
+-2.163107	laafu chin
+-1.513654	laafu chisn	-0.127402
+-1.545743	laafu chisn.
+-1.071762	laafu hai	-0.09363762
+-1.304441	laafu hai.
+-1.459551	laafu moojt	-0.09403928
+-1.27575	laafu muwowfi
+-1.523365	laafu nawm
+-2.181449	laafu nawm.
+-2.181449	laafu sasu.
+-2.057123	laafu tasm
+-0.7734045	laau bary
+-1.247302	laf 11
+-1.247302	laf chuyeern
+-1.184203	laf moojt
+-0.7612108	lafm dduwowjc
+-0.7709382	lajnh sex
+-0.3950492	leejnh bawfng	-0.2160504
+-0.7470164	leejnh”, heej
+-0.7764353	leen giuwowfng,
+-1.022104	leen, ddieefu
+-1.072259	leen, tuwf
+-1.224204	ler ba.
+-1.231244	ler bary.
+-1.247302	ler tasm.
+-0.7734045	lowsn hafng
+-0.7709382	luwowjng nhajc
+-0.7753924	luwowjng. Heej
+-0.7764353	lys aro,
+-0.7753924	maaxm ddi
+-0.3906059	maf bajn
+-0.5716106	mafn hifnh
+-1.24905	mafn hifnh.
+-0.7470164	mafnh </s>
+-0.7764353	mast saau
+-0.3334337	masy tisnh	-0.1292054
+-0.7709382	mifnh bawfng
+-0.7753924	mifnh, nguwowfi
+-1.26385	minh </s>
+-1.369148	minh Bkav	-0.2622133
+-1.369148	minh noori
+-1.357401	minh trowr
+-0.7734045	minh, phuf
+-0.7764353	mof maaxm
+-0.7764353	moo phorng
+-1.886679	moojt .
+-1.886679	moojt casch
+-1.85204	moojt choosng
+-1.825598	moojt hai
+-1.62401	moojt heej
+-1.733481	moojt muwowfi
+-1.213675	moojt nghifn
+-1.231606	moojt nust
+-1.886679	moojt trari
+-1.713211	moojt trawm	-0.2160503
+-1.62401	moojt vaf
+-1.886679	moojt vafi
+-1.035462	moojt. kieerm
+-1.030964	moojt. phofng
+-0.7709382	moosc thowfi
+-1.363666	moost. baajt
+-1.373402	moost. kieerm
+-1.383362	moost. smart
+-1.436905	moost. tawng
+-1.373402	moost. tawst
+-0.6956779	mooxi buoori
+-1.360726	mooxi gia
+-1.352582	mooxi thowfi
+-0.7470164	mowr, heej
+-1.044602	mowsi cos
+-1.044602	mowsi dduwowjc
+-1.742212	muwowfi ba
+-1.72202	muwowfi ba.
+-1.742212	muwowfi bary.
+-1.72202	muwowfi chisn
+-1.790732	muwowfi chisn.kieerm
+-1.763389	muwowfi hai.
+-1.087192	muwowfi moojt
+-1.13156	muwowfi moojt.
+-1.72202	muwowfi tasm
+-0.7612108	muwowfi. muwowfi
+-0.9593893	muwowi ba.	-0.1607993
+-1.19499	muwowi bary.
+-1.858109	muwowi boosn.
+-1.199401	muwowi hai.
+-0.7336568	muwowi moost.	-0.05886304
+-1.804891	muwowi nghifn
+-1.035462	muwowi. kieerm
+-1.040008	muwowi. smart
+-1.247302	muwsc 100%
+-1.247302	muwsc 50%
+-1.224204	muwsc ddooj
+-1.044602	nafo cos
+-1.06833	nafo hoajt
+-1.190619	nafy bajn
+-1.2384	nafy cofn
+-1.184203	nafy moojt
+-0.7764353	nafy, ddoofng
+-0.5472788	nawm muwowi	-0.1919875
+-1.436439	nawm nghifn
+-1.46227	nawm sasu
+-0.7564276	nawm. tawst
+-1.072259	nawng hojc
+-1.074327	nawng luwowjng.
+-0.7753924	nay, ddax
+-0.7764353	neefn tarng
+-1.074327	neen phoor
+-1.074327	neen thaan
+-0.7764353	ngaafm hieeru
+-1.017741	ngafy heej
+-1.074327	ngafy nay,
+-0.7734045	ngafy, asnh
+-1.074327	ngheej tieen
+-1.074327	ngheej trowj
+-1.165504	nghi </s>
+-1.197131	nghi khi
+-1.165504	nghi vaf
+-0.7764353	nghieejm tuyeejt
+-1.571752	nghifn ba
+-0.9334668	nghifn bary
+-1.571752	nghifn boosn
+-1.598313	nghifn chin
+-1.557683	nghifn chisn
+-1.557683	nghifn tasm
+-0.7734045	nghix towsi
+-0.7734045	ngoafi ngooi
+-0.3292795	ngooi nhaf	-0.1185048
+-0.7516965	ngur laafu	-0.1562205
+-0.7753924	ngur, thay
+-0.7540556	ngur. phofng
+-0.7709382	ngur” treen
+-1.022104	nguwowfi ddefn
+-1.072259	nguwowfi ta
+-0.7684859	nguwowfi, ban
+-0.7734045	nguwowfi. Khoong
+-0.7764353	nhaajp trasi
+-0.7764353	nhaan. Vafo
+-1.665747	nhaf dduwowjc
+-1.738391	nhaf hieejn
+-1.758145	nhaf lowsn
+-1.758145	nhaf mifnh
+-0.4643328	nhaf thoong	-0.2699407
+-1.751262	nhaf tuwf
+-1.035462	nhaf, bajn
+-1.053938	nhaf, taast
+-0.7753924	nhafng maf
+-0.7764353	nhaf”, bifnh
+-1.611467	nhajc baso
+-1.641788	nhajc choosng
+-1.661399	nhajc nhej
+-1.661399	nhajc phast…
+-0.9637072	nhajc phofng
+-0.9703481	nhajc smart	-0.2160504
+-0.7764353	nhau, do
+-0.7764353	nhau. Chawrng
+-0.7734045	nhawsc nhuw
+-0.7764353	nhej nhafng
+-1.058682	nhieefu coong
+-1.072259	nhieefu khu
+-0.3943054	nhieejt ddooj
+-0.7709382	nhieen mooxi
+-0.7764353	nhieen, neefn
+-0.7764353	nhu caafu
+-1.244226	nhuw Bill
+-1.247302	nhuw ddang
+-1.184203	nhuw moojt
+-0.7588126	nhuw: khi
+-0.7709382	nhuwng vafo
+-1.533113	nhuwxng barn
+-1.494986	nhuwxng coong
+-1.401573	nhuwxng ddieefu
+-1.533113	nhuwxng khu
+-1.539117	nhuwxng thees,
+-1.533113	nhuwxng tyr
+-0.7684859	ninh, baso
+-0.7764353	noori tieesng
+-1.165504	nosi </s>
+-1.203743	nosi cura
+-1.165504	nosi vaf
+-0.7764353	nosng lajnh
+-0.5705988	nust baasm
+-1.235901	nust treen
+-0.7753924	oong. Khi
+-1.169758	owr beesp	-0.2160503
+-1.169758	owr chees	-0.2160503
+-1.821375	owr ddos
+-1.651012	owr laafu
+-1.167772	owr muwsc
+-0.9080848	owr phofng	-0.6288896
+-1.804635	owr saan	-0.2160503
+-0.7753924	phaafn nafo
+-1.074327	phari chajy
+-1.072259	phari keso
+-1.06833	phast hieejn
+-1.053938	phast nhuwxng
+-0.7636223	phast… thoong
+-0.7470164	phesp. </s>
+-1.844147	phofng chisn
+-1.252676	phofng hai	-0.1308067
+-1.024793	phofng khasch	-0.3600611
+-1.921238	phofng khasch.
+-1.729216	phofng moojt
+-1.782891	phofng muwowfi
+-0.7952426	phofng ngur	-0.9713122
+-1.921238	phofng ngur.
+-1.681452	phofng vaf
+-0.7764353	phoor bieesn,
+-0.7764353	phorng gioosng
+-0.3334337	phuf howjp	-0.1291124
+-0.7764353	phujc vuj.
+-1.072259	phus Bill
+-1.06833	phus hafng
+-1.040008	phust khi
+-1.017741	phust vaf
+-0.7753924	qua giao
+-1.463726	quajt owr	-0.2160503
+-1.528037	quajt saan
+-1.484122	quajt thoong
+-0.6156996	quajt vaf	-0.5319796
+-0.7764353	quan 3D,
+-0.7564276	quan, bajn
+-1.203743	quen cura
+-1.210457	quen ddeer
+-1.244226	quen sinh
+-1.074327	ra khori
+-1.072259	ra leejnh
+-0.7753924	raast nhieefu
+-1.247302	refm cuwra
+-1.244226	refm keso
+-1.247302	refm mafnh
+-0.7764353	refm, ddosng
+-1.06833	rowx, refm
+-1.053938	rowx, taast
+-0.3967056	ruwjc rowx,
+-1.224204	saan ba.
+-1.231244	saan boosn
+-1.17788	saan laafu
+-0.7764353	saau hown,
+-0.7764353	safng phujc
+-0.7684859	sang ban
+-1.721323	sasng cofn
+-1.623522	sasng cura
+-1.739282	sasng leen,
+-1.748975	sasng nhuwng
+-1.606351	sasng owr
+-1.739282	sasng ruwjc
+-1.699922	sasng sex	-0.2160503
+-1.641399	sasng thoong
+-1.699922	sasng trong
+-1.529411	sasng vaf
+-0.7734045	sasng, refm
+-0.7470164	sasng. </s>
+-1.06833	sasu bary
+-1.044602	sasu muwowi
+-0.7540556	sasu. baajt
+-1.247302	sau 15
+-1.247302	sau 5
+-1.231244	sau giusp
+-0.7764353	sawxn safng
+-0.7684859	sawxn, ban
+-1.363666	sex baajt
+-1.462986	sex baajt,
+-1.462986	sex khowri
+-1.457942	sex thuwjc
+-1.403994	sex tuwj
+-0.3957941	sinh hoajt
+-0.2680489	smart home	-0.2685156
+-0.8555821	smart home.	-0.09233152
+-0.7764353	smartphone hay
+-0.7734045	smartphone, masy
+-0.7734045	soast ngooi
+-1.074327	sowr huwxu.
+-1.074327	sowr thisch
+-0.3963925	suwj tieejn	-0.2160503
+-0.7764353	suwr dujng
+-1.074327	ta ai
+-1.074327	ta ngaafm
+-0.1353968	taast car	-0.5014172
+-0.7753924	tarng Nhaf
+-1.431286	tasm chisn
+-1.402315	tasm muwowfi
+-1.402315	tasm muwowi	-0.2160503
+-0.7764142	tasm trawm
+-0.7540556	tasm. baajt
+-0.4560512	tawng nhajc
+-1.369448	tawng nhieejt
+-0.7764353	tawsc, thaajm
+-1.074327	tawsc. Thaajt
+-1.074327	tawsc. Vowsi
+-1.122024	tawst ddefn
+-1.122024	tawst ddieefu	-0.2160503
+-1.831696	tawst ddieejn,
+-1.702908	tawst khi
+-1.751867	tawst quajt
+-1.823078	tawst sau
+-0.6924725	tawst taast	-0.5319796
+-0.7660473	tees, chir
+-0.7764353	thaajm chis
+-0.7764353	thaan thieejn,
+-0.7753924	thafnh nhieefu
+-0.7753924	thanh phast
+-1.074327	thay ddoori
+-1.074327	thay vif
+-1.022104	theer ddieefu	-0.4070408
+-1.072259	theer sowr	-0.2160503
+-0.3967056	thees giowsi
+-0.7470164	thees, heej
+-1.072259	theo kijch
+-1.072259	theo sowr
+-0.7753924	thieejn, khoong
+-0.3963925	thieest bij	-0.2229786
+-0.7612108	thisch cura
+-0.7493502	thisch, ddieefu
+-0.7764353	thoaji hoawjc
+-1.709378	thoong gios,
+-1.709378	thoong mifnh,
+-0.8082894	thoong minh	-0.2226354
+-1.709378	thoong minh,
+-1.709378	thoong qua
+-1.686998	thoong thuwowfng
+-1.709378	thoong thuwowfng.
+-1.846059	thoosng aam
+-1.857404	thoosng an
+-1.195461	thoosng asnh	-0.5319796
+-1.71353	thoosng cos
+-1.857404	thoosng ddasp
+-1.624812	thoosng ddefn
+-1.13951	thoosng ddieefu	-0.2160503
+-1.694277	thoosng nhaf
+-1.754803	thoosng quajt
+-1.800414	thoosng sex
+-1.825151	thoosng trowr
+-0.7753924	thoosng: Khi
+-0.3967056	thosi quen
+-1.370882	thowfi ddieerm
+-0.6964238	thowfi gian
+-1.370882	thowfi kisch
+-1.06833	thuwjc hieejn
+-1.074327	thuwjc tees,
+-0.5655868	thuwowfng ddeer
+-1.24905	thuwowfng gawjp,
+-0.7764353	thuwowfng. Sex
+-0.3967056	tieejn nghi
+-0.7764353	tieen tieesn
+-0.7753924	tieesn ngafy
+-0.7753924	tieesng thees
+-1.2384	tieesp khasch
+-1.231244	tieesp treen
+-1.224204	tieesp vowsi
+-0.7764353	tieest kieejm
+-1.074327	tisnh barng,
+-1.074327	tisnh barng.
+-0.7470164	toosi heej
+-1.2384	towsi hafng
+-1.197131	towsi nhaf
+-1.244226	towsi suwj
+-1.50049	tra baso	-0.4070408
+-1.525091	tra choosng	-0.4070408
+-1.434084	tra phofng	-0.2160504
+-1.455111	tra smart
+-0.8595129	tra taast	-0.4070408
+-0.7493502	traafn, ddefn
+-0.7753924	trang bij
+-0.7753924	tranh... muwsc
+-0.7764353	trari nghieejm
+-0.7764353	trasi phesp.
+-1.792061	trawm ba
+-1.774672	trawm coong
+-1.170408	trawm ler
+-1.144801	trawm muwowfi	-0.2160503
+-0.6958337	trawm nawm	-0.6288896
+-1.156961	trawm tasm	-0.2160503
+-1.367369	treen ddieejn
+-0.6956779	treen mafn
+-1.370882	treen smartphone,
+-1.365079	trong mafn
+-1.348013	trong mooxi
+-1.365079	trong nhaf,
+-1.26385	trong vaf
+-1.279428	troojm laafu
+-1.357401	troojm saan
+-1.303896	troojm smart
+-1.26385	troojm vaf
+-0.7764353	trowj lys
+-0.5721405	trowr neen
+-1.246537	trowr veef
+-1.074327	truwjc quan
+-1.06833	truwjc tieesp
+-0.7588126	truwowsc khi
+-1.074327	tuwf cow
+-1.022104	tuwf ddefn
+-0.1130043	tuwj ddoojng	-0.1298466
+-0.7734045	tuwowng uwsng
+-0.7764353	tuyeejt vowfi
+-0.3967056	tyr phus
+-0.7764353	uwa thisch,
+-1.244226	uwsng bajn.
+-1.203743	uwsng cura
+-1.231244	uwsng trong
+-1.896755	vaf baasm
+-1.266108	vaf baso
+-1.658708	vaf ddefn	-0.5319796
+-1.658708	vaf ddieefu
+-1.640759	vaf heej
+-1.71749	vaf kieerm
+-1.696999	vaf moojt
+-1.937306	vaf ngoafi
+-1.810751	vaf quajt	-0.2160503
+-1.922953	vaf sinh
+-1.738996	vaf smart
+-1.71749	vaf tawst
+-1.866155	vaf thowfi
+-1.937306	vaf tieest
+-1.785492	vaf tuwj
+-0.7753924	vafi nust
+-1.5523	vafo ban
+-1.596087	vafo buoori
+-1.47118	vafo moojt
+-1.567426	vafo mooxi
+-1.596087	vafo thieest
+-1.603035	vafo “Tieesp
+-1.603035	vafo “Đi
+-1.072259	veef ddeesn
+-1.040008	veef nhaf
+-1.072259	vieejc chajm
+-1.06833	vieejc nafy
+-0.7753924	vif phari
+-0.7753924	vis duj
+-0.7588126	vowfi khi
+-1.533113	vowsi cawn
+-1.521855	vowsi gia
+-1.391192	vowsi heej
+-1.521855	vowsi ngooi
+-1.539117	vowsi nhu
+-1.48215	vowsi nhuwxng
+-0.7734045	vuj. Khoong
+-0.7734045	vuj” chur
+-0.7753924	vuwjc nafo
+-0.7660473	vuwjc, chir
+-0.7764353	xaam nhaajp
+-0.7684859	xuoosng ddooj
+-0.7764353	“Tieesp khasch”,
+-0.7764353	“Veef nhaf”,
+-0.7753924	“luwowfi” ra
+-0.7764353	“phujc vuj”
+-0.7764353	“ra leejnh”,
+-0.7764353	“Đi ngur”
+
+\3-grams:
+-0.3016149	minh Bkav SmartHome
+-0.1160342	<s> Heej thoosng
+-0.07419676	thoosng asnh sasng
+-0.7553243	muwowi ba. kieerm
+-0.6409299	muwowi ba. phofng
+-0.1165525	tra baso chasy
+-0.2888143	leejnh bawfng giojng
+-0.3013386	owr beesp laafu
+-0.3742683	thieest bij ddieejn
+-0.4153284	laafu boosn muwowi
+-0.7475067	laafu boosn vaf
+-0.3139261	chir caafn chajm
+-0.1932359	taast car casc
+-1.166197	taast car smart
+-1.01932	car casc ddefn
+-1.03188	car casc quajt
+-0.353699	car casc thieest
+-0.115758	caafn chajm vafo
+-0.7779524	baso chasy laafu
+-0.4702103	baso chasy smart
+-0.3049035	owr chees ddooj
+-0.4166589	bajn chir caafn
+-0.4446074	laafu chisn trawm
+-0.1023365	tra choosng troojm
+-0.3129304	bajn cos theer
+-0.3129304	cuxng cos theer
+-0.1252041	vaf ddefn owr
+-0.2141118	baajt ddieefu hofa
+-0.5027595	ddeer ddieefu khieern
+-0.2141118	tawst ddieefu hofa
+-0.1733208	theer ddieefu khieern
+-0.3105385	thoosng ddieefu khieern
+-0.6296937	bij ddieejn owr
+-0.6275386	bij ddieejn phofng
+-0.5519493	tuwj ddoojng tawst
+-0.2878745	hai. giarm nhajc
+-0.1714448	bawfng giojng nosi
+-0.6607419	laafu hai muwowi
+-0.5519836	phofng hai nghifn
+-0.3502752	ddieefu hofa owr
+-0.5164876	smart home laafu
+-0.6873995	smart home vaf
+-0.6132391	smart home. kieerm
+-0.4920534	phuf howjp vowsi
+-0.2317459	phofng khasch laafu
+-0.9160265	ddieefu khieern taast
+-0.34988	khi khoong cos
+-0.07490888	ba. kieerm tra
+-0.07490888	home. kieerm tra
+-0.5872775	home laafu boosn
+-1.040883	ngur laafu chisn
+-0.7252087	ngur laafu moojt
+-0.9770529	ngur laafu muwowfi
+-0.3698932	thoong minh Bkav
+-0.6772001	laafu moojt trawm
+-0.7836982	muwowi moost. baajt
+-0.3941908	trawm muwowfi ba.
+-0.4092146	boosn muwowi moost.
+-0.4874077	nawm muwowi ba.
+-0.6555932	nawm muwowi moost.
+-0.3657778	tasm muwowi bary.
+-0.08006892	trawm nawm muwowi
+-0.03996021	phofng ngur laafu
+-0.3009257	ngooi nhaf thoong
+-0.3361647	ddefn owr phofng
+-0.9233987	ddefn owr saan
+-0.3919913	ddieejn owr laafu
+-0.2107408	hofa owr phofng
+-0.3306139	quajt owr phofng
+-0.5226298	ba. phofng hai
+-0.6889104	owr phofng khasch
+-0.2075051	owr phofng ngur
+-0.3103638	tra phofng ngur
+-0.2682086	casc quajt vaf
+-0.3842191	vaf quajt owr
+-0.3642082	owr saan laafu
+-0.8348224	asnh sasng sex
+-0.3785585	sasng sex baajt
+-0.3217275	car smart home.
+-0.08639796	chasy smart home
+-0.1426942	nhajc smart home
+-0.3534227	theer sowr huwxu.
+-0.04813627	baajt taast car
+-0.07720546	khieern taast car
+-0.03559285	tawst taast car
+-0.04813627	tra taast car
+-0.3808918	trawm tasm muwowi
+-0.5658372	ddoojng tawst sau
+-0.3867623	cos theer ddieefu
+-0.704942	cos theer sowr
+-0.05415335	casc thieest bij
+-0.3129304	Nhaf thoong minh
+-0.2624806	nhaf thoong minh
+-0.6141824	Heej thoosng asnh
+-0.9382957	heej thoosng asnh
+-1.109435	heej thoosng sex
+-0.1966429	hojc thosi quen
+-0.1966429	suwj tieejn nghi
+-0.4949628	masy tisnh barng,
+-0.7396117	kieerm tra baso
+-0.7417489	kieerm tra choosng
+-1.044903	kieerm tra phofng
+-0.8468392	kieerm tra taast
+-0.511053	chisn trawm ler
+-0.2886739	moojt trawm nawm
+-0.7054957	choosng troojm laafu
+-0.3964908	ddefn vaf quajt
+-0.5622823	home vaf smart
+-0.147113	quajt vaf ddefn
+
+\end\
