@@ -1,0 +1,17 @@
+1/ ERROR: "backward.c", line 430: Failed to align audio to transcript: final state of the search is not reached.
+Sometimes audio in your database doesn't match the transcription properly
+In that case you need to enable forced alignment stage in training. To do that edit sphinx_train.cfg line
+	$CFG_FORCEDALIGN = 'yes';
+
+2/use context-dependent training
+	$CFG_CD_TRAIN
+
+3/ Can't open */*-1-1.match word_align.pl failed with error code 65280
+
+This error occurs because the decoder did not run properly after training. First check if the correct executable (psdecode_batch if the decoding script being used is psdecode.pl as set by $DEC_CFG_SCRIPT variable in sphinx_train.cfg) is present in PATH. On Linux run
+
+	which pocketsphinx_batch
+and see if it is located. If it is not, you need to set the PATH variable properly. Similarly on Windows, run
+
+	where pocketsphinx_batch*
+If the path to decoding executable is set properly, read the log files at logdir/decode/ to find out other reasons behind the error.
