@@ -12,10 +12,10 @@ Command :
 Command : Example file : README.md 
 	git add README.md
 	git commit -m " message "
-	git push -u origin master
+	git push origin master
 
 4/ to pull data from repo github ( always update data from repo before push data to that )
-	git pull https://github.com/nguyenchanh2201/Doc.git
+	git pull 
 
 5/ check status current 
 	git status
