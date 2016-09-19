@@ -15,3 +15,14 @@ and see if it is located. If it is not, you need to set the PATH variable proper
 
 	where pocketsphinx_batch*
 If the path to decoding executable is set properly, read the log files at logdir/decode/ to find out other reasons behind the error.
+
+4/ link record 
+http://xmodulo.com/how-to-capture-microphone-input-to-wav-format-file.html
+http://www.w0ch.net/linux/audio_record.htm
+
+5/ Unility (apps) support for recording audio 
+
+soxi 1.wav    	:   show format wav file 
+arecord 	: record from microphone 
+killall -KILL arecord	: kill app arecord 
+
