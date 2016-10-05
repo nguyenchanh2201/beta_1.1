@@ -10,7 +10,7 @@ Command :
 3/ to push data to repo in github.com
 
 Command : Example file : README.md 
-	git add README.md
+	git add 
 	git commit -m " message "
 	git push origin master
 
