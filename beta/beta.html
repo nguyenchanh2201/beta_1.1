@@ -6056,3 +6056,166 @@ span.status {
 <span class='status FAILED'>FAILED</span>
 <p class='phase'>Phase 7: Checking that all the phones in the transcript are in the phonelist, and all phones in the phonelist appear at least once</p>
 <span class='status passed'>passed</span>
+<hr>
+<h3>MODULE: 000 Computing feature from audio files	(2016-10-06 23:56)</h3>
+<p class='audio files'>Extracting features from  segments starting at  (part 1 of 1) </p>
+<p class='result'>sphinx_fe <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/000.comp_feat/beta.train-1-1.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='audio files'>Extracting features from  segments starting at  (part 1 of 1) </p>
+<p class='result'>sphinx_fe <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/000.comp_feat/beta.test-1-1.log">Log File</a></p><span class='status completed'>completed</span>
+<p>Feature extraction is done</p>
+<hr>
+<h3>MODULE: 00 verify training files	(2016-10-06 23:56)</h3>
+<p class='phase'>Phase 1: Checking to see if the dict and filler dict agrees with the phonelist file.</p>
+<p class='result'>Found 52 words using 57 phones</p>
+<span class='status passed'>passed</span>
+<p class='phase'>Phase 2: Checking to make sure there are not duplicate entries in the dictionary</p>
+<span class='status passed'>passed</span>
+<p class='phase'>Phase 3: Check general format for the fileids file; utterance length (must be positive); files exist</p>
+<span class='status passed'>passed</span>
+<p class='phase'>Phase 4: Checking number of lines in the transcript file should match lines in fileids file</p>
+<span class='status passed'>passed</span>
+<p class='phase'>Phase 5: Determine amount of training data, see if n_tied_states seems reasonable.</p>
+<p class='result'>Estimated Total Hours Training: 3.75586944444444</p>
+<p class='result'>This is a small amount of data, no comment at this time</p>
+<span class='status WARNING'>WARNING</span>
+<p class='phase'>Phase 6: Checking that all the words in the transcript are in the dictionary</p>
+<p class='result'>Words in dictionary: 49</p>
+<p class='result'>Words in filler dictionary: 3</p>
+<p class='warning'>WARNING: This word: laau was in the transcript file, but is not in the dictionary (<s> smart home kieerm tra baso chasy ddefn laau bary muwowi </s> ). Do cases match?</p>
+<p class='warning'>WARNING: This word: baat was in the transcript file, but is not in the dictionary (<s> tooi muoosn baat ddefn vaf baajt ddieefu hofa vaf baajt nhajc phofng khasch owr smart home </s> ). Do cases match?</p>
+<p class='warning'>WARNING: This word: ngifn was in the transcript file, but is not in the dictionary (<s> taast car ddieefu hofa owr phofng tasm ngifn boosn trawm sasu muwowi bary vaf chisn nghifn nawm trawm muwowfi hai </s> ). Do cases match?</p>
+<span class='status FAILED'>FAILED</span>
+<p class='phase'>Phase 7: Checking that all the phones in the transcript are in the phonelist, and all phones in the phonelist appear at least once</p>
+<span class='status passed'>passed</span>
+<hr>
+<h3>MODULE: 000 Computing feature from audio files	(2016-10-06 23:58)</h3>
+<p class='audio files'>Extracting features from  segments starting at  (part 1 of 1) </p>
+<p class='result'>sphinx_fe <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/000.comp_feat/beta.train-1-1.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='audio files'>Extracting features from  segments starting at  (part 1 of 1) </p>
+<p class='result'>sphinx_fe <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/000.comp_feat/beta.test-1-1.log">Log File</a></p><span class='status completed'>completed</span>
+<p>Feature extraction is done</p>
+<hr>
+<h3>MODULE: 00 verify training files	(2016-10-06 23:58)</h3>
+<p class='phase'>Phase 1: Checking to see if the dict and filler dict agrees with the phonelist file.</p>
+<p class='result'>Found 52 words using 57 phones</p>
+<span class='status passed'>passed</span>
+<p class='phase'>Phase 2: Checking to make sure there are not duplicate entries in the dictionary</p>
+<span class='status passed'>passed</span>
+<p class='phase'>Phase 3: Check general format for the fileids file; utterance length (must be positive); files exist</p>
+<span class='status passed'>passed</span>
+<p class='phase'>Phase 4: Checking number of lines in the transcript file should match lines in fileids file</p>
+<span class='status passed'>passed</span>
+<p class='phase'>Phase 5: Determine amount of training data, see if n_tied_states seems reasonable.</p>
+<p class='result'>Estimated Total Hours Training: 3.75586944444444</p>
+<p class='result'>This is a small amount of data, no comment at this time</p>
+<span class='status WARNING'>WARNING</span>
+<p class='phase'>Phase 6: Checking that all the words in the transcript are in the dictionary</p>
+<p class='result'>Words in dictionary: 49</p>
+<p class='result'>Words in filler dictionary: 3</p>
+<span class='status passed'>passed</span>
+<p class='phase'>Phase 7: Checking that all the phones in the transcript are in the phonelist, and all phones in the phonelist appear at least once</p>
+<span class='status passed'>passed</span>
+<hr>
+<h3>MODULE: 0000 train grapheme-to-phoneme model	(2016-10-06 23:58)</h3>
+<p>Skipped (set $CFG_G2P_MODEL = 'yes' to enable)</p>
+<hr>
+<h3>MODULE: 01 Train LDA transformation	(2016-10-06 23:58)</h3>
+<p>Skipped for multistream setup, see CFG_NUM_STREAMS configuration</p>
+<p>LDA/MLLT only has sense for single stream features</p>
+<p>Skipping LDA training</p>
+<hr>
+<h3>MODULE: 02 Train MLLT transformation	(2016-10-06 23:58)</h3>
+<p>Skipped for multistream setup, see CFG_NUM_STREAMS configuration</p>
+<p>LDA/MLLT only has sense for single stream features</p>
+<p>Skipping MLLT training</p>
+<hr>
+<h3>MODULE: 05 Vector Quantization	(2016-10-06 23:58)</h3>
+<p class='result'>agg_seg <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/05.vector_quantize/beta.vq.agg_seg.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>kmeans_init <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/05.vector_quantize/beta.kmeans.log">Log File</a></p><span class='status completed'>completed</span>
+<hr>
+<h3>MODULE: 10 Training Context Independent models for forced alignment and VTLN	(2016-10-07 00:00)</h3>
+<p>Skipped:  $ST::CFG_FORCEDALIGN set to 'no' in sphinx_train.cfg</p>
+<p>Skipped:  $ST::CFG_VTLN set to 'no' in sphinx_train.cfg</p>
+<hr>
+<h3>MODULE: 11 Force-aligning transcripts	(2016-10-07 00:00)</h3>
+<p>Skipped:  $ST::CFG_FORCEDALIGN set to 'no' in sphinx_train.cfg</p>
+<hr>
+<h3>MODULE: 12 Force-aligning data for VTLN	(2016-10-07 00:00)</h3>
+<p>Skipped:  $ST::CFG_VTLN set to 'no' in sphinx_train.cfg</p>
+<hr>
+<h3>MODULE: 20 Training Context Independent models	(2016-10-07 00:00)</h3>
+<p class='phase'>Phase 1: Cleaning up directories:</p>
+<span class='progress'>	accumulator...</span>
+<span class='progress'>logs...</span>
+<span class='progress'>qmanager...</span>
+<span class='progress'>models...
+</span>
+<span class='status completed'>completed</span>
+<p class='phase'>Phase 2: Flat initialize</p>
+<p class='result'>mk_mdef_gen <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.make_ci_mdef_fromphonelist.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>mk_flat <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.makeflat_cihmm.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>init_mixw <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.duplicate_codebook.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='phase'>Phase 3: Forward-Backward</p>
+<p class='result'>Baum welch starting for 64 Gaussian(s), iteration: 1 (1 of 1)</p>
+<p class='result'>bw <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.1-1.bw.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>Normalization for iteration: 1</p>
+<p class='result'>norm <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.1.norm.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>Current Overall Likelihood Per Frame = -208.602091689082</p>
+<p class='result'>Baum welch starting for 64 Gaussian(s), iteration: 2 (1 of 1)</p>
+<p class='result'>bw <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.2-1.bw.log">Log File</a></p><p class='error'>ERROR: This step had 2 ERROR messages and 0 WARNING messages.  Please check the log file for details.</p>
+<span class='status completed'>completed</span>
+<p class='result'>Normalization for iteration: 2</p>
+<p class='result'>norm <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.2.norm.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>Current Overall Likelihood Per Frame = -202.618091875823</p>
+<p class='result'>Convergence Ratio = 5.98399981325866</p>
+<p class='result'>Baum welch starting for 64 Gaussian(s), iteration: 3 (1 of 1)</p>
+<p class='result'>bw <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.3-1.bw.log">Log File</a></p><p class='error'>ERROR: This step had 2 ERROR messages and 0 WARNING messages.  Please check the log file for details.</p>
+<span class='status completed'>completed</span>
+<p class='result'>Normalization for iteration: 3</p>
+<p class='result'>norm <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.3.norm.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>Current Overall Likelihood Per Frame = -199.720631342101</p>
+<p class='result'>Convergence Ratio = 2.89746053372178</p>
+<p class='result'>Baum welch starting for 64 Gaussian(s), iteration: 4 (1 of 1)</p>
+<p class='result'>bw <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.4-1.bw.log">Log File</a></p><p class='error'>ERROR: This step had 4 ERROR messages and 0 WARNING messages.  Please check the log file for details.</p>
+<span class='status completed'>completed</span>
+<p class='result'>Normalization for iteration: 4</p>
+<p class='result'>norm <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.4.norm.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>Current Overall Likelihood Per Frame = -198.262504845692</p>
+<p class='result'>Convergence Ratio = 1.45812649640857</p>
+<p class='result'>Baum welch starting for 64 Gaussian(s), iteration: 5 (1 of 1)</p>
+<p class='result'>bw <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.5-1.bw.log">Log File</a></p><p class='error'>ERROR: This step had 8 ERROR messages and 0 WARNING messages.  Please check the log file for details.</p>
+<span class='status completed'>completed</span>
+<p class='result'>Normalization for iteration: 5</p>
+<p class='result'>norm <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.5.norm.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>Current Overall Likelihood Per Frame = -197.525848132598</p>
+<p class='result'>Convergence Ratio = 0.736656713093765</p>
+<p class='result'>Baum welch starting for 64 Gaussian(s), iteration: 6 (1 of 1)</p>
+<p class='result'>bw <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.6-1.bw.log">Log File</a></p><p class='error'>ERROR: This step had 10 ERROR messages and 0 WARNING messages.  Please check the log file for details.</p>
+<span class='status completed'>completed</span>
+<p class='result'>Normalization for iteration: 6</p>
+<p class='result'>norm <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.6.norm.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>Current Overall Likelihood Per Frame = -197.105413957566</p>
+<p class='result'>Convergence Ratio = 0.420434175032483</p>
+<p class='result'>Baum welch starting for 64 Gaussian(s), iteration: 7 (1 of 1)</p>
+<p class='result'>bw <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.7-1.bw.log">Log File</a></p><p class='error'>ERROR: This step had 12 ERROR messages and 0 WARNING messages.  Please check the log file for details.</p>
+<span class='status completed'>completed</span>
+<p class='result'>Normalization for iteration: 7</p>
+<p class='result'>norm <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.7.norm.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>Current Overall Likelihood Per Frame = -196.835688679525</p>
+<p class='result'>Convergence Ratio = 0.269725278041193</p>
+<p class='result'>Baum welch starting for 64 Gaussian(s), iteration: 8 (1 of 1)</p>
+<p class='result'>bw <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.8-1.bw.log">Log File</a></p><p class='error'>ERROR: This step had 14 ERROR messages and 0 WARNING messages.  Please check the log file for details.</p>
+<span class='status completed'>completed</span>
+<p class='result'>Normalization for iteration: 8</p>
+<p class='result'>norm <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.8.norm.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>Current Overall Likelihood Per Frame = -196.650689701154</p>
+<p class='result'>Convergence Ratio = 0.1849989783708</p>
+<p class='result'>Baum welch starting for 64 Gaussian(s), iteration: 9 (1 of 1)</p>
+<p class='result'>bw <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.9-1.bw.log">Log File</a></p><p class='error'>ERROR: This step had 14 ERROR messages and 0 WARNING messages.  Please check the log file for details.</p>
+<span class='status completed'>completed</span>
+<p class='result'>Normalization for iteration: 9</p>
+<p class='result'>norm <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.9.norm.log">Log File</a></p><span class='status completed'>completed</span>
+<p class='result'>Current Overall Likelihood Per Frame = -196.518231520306</p>
+<p class='result'>Convergence Ratio = 0.132458180848175</p>
+<p class='result'>Baum welch starting for 64 Gaussian(s), iteration: 10 (1 of 1)</p>
+<p class='result'>bw <a href="file:///home/nguyenchanh/Git_Hub/beta_1.1/beta/logdir/20.ci_hmm/beta.64.10-1.bw.log">Log File</a></p>

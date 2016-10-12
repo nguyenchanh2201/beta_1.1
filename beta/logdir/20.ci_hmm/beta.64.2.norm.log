@@ -1,6 +1,6 @@
 Current configuration:
 [NAME]		[DEFLT]	[VALUE]
--accumdir		/home/nguyenchanh/Documents/beta/bwaccumdir/beta_buff_1,
+-accumdir		/home/nguyenchanh/Git_Hub/beta_1.1/beta/bwaccumdir/beta_buff_1,
 -constE		3.0	3.000000e+00
 -dcountfn		
 -example	no	no
@@ -9,26 +9,26 @@ Current configuration:
 -inmeanfn		
 -inmixwfn		
 -invarfn		
--meanfn			/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm/means
--mixwfn			/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm/mixture_weights
+-meanfn			/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm/means
+-mixwfn			/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm/mixture_weights
 -mmie		no	no
 -oaccumdir		
 -regmatfn		
 -tiedvar	no	no
--tmatfn			/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm/transition_matrices
--varfn			/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm/variances
+-tmatfn			/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm/transition_matrices
+-varfn			/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm/variances
 
-INFO: main.c(207): Reading and accumulating counts from /home/nguyenchanh/Documents/beta/bwaccumdir/beta_buff_1
-INFO: s3mixw_io.c(117): Read /home/nguyenchanh/Documents/beta/bwaccumdir/beta_buff_1/mixw_counts [171x4x64 array]
-INFO: s3tmat_io.c(118): Read /home/nguyenchanh/Documents/beta/bwaccumdir/beta_buff_1/tmat_counts [57x3x4 array]
-INFO: s3gau_io.c(386): Read /home/nguyenchanh/Documents/beta/bwaccumdir/beta_buff_1/gauden_counts with means with vars (2pass) [57x4x64 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /home/nguyenchanh/Git_Hub/beta_1.1/beta/bwaccumdir/beta_buff_1
+INFO: s3mixw_io.c(117): Read /home/nguyenchanh/Git_Hub/beta_1.1/beta/bwaccumdir/beta_buff_1/mixw_counts [171x4x64 array]
+INFO: s3tmat_io.c(118): Read /home/nguyenchanh/Git_Hub/beta_1.1/beta/bwaccumdir/beta_buff_1/tmat_counts [57x3x4 array]
+INFO: s3gau_io.c(386): Read /home/nguyenchanh/Git_Hub/beta_1.1/beta/bwaccumdir/beta_buff_1/gauden_counts with means with vars (2pass) [57x4x64 vector arrays]
 INFO: main.c(321): -2passvar yes
 INFO: main.c(391): Normalizing mean for n_mgau= 57, n_stream= 4, n_density= 64
 INFO: main.c(414): Normalizing var
-INFO: s3mixw_io.c(233): Wrote /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm/mixture_weights [171x4x64 array]
-INFO: s3tmat_io.c(176): Wrote /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm/transition_matrices [57x3x4 array]
-INFO: s3gau_io.c(228): Wrote /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm/means [57x4x64 array]
-INFO: s3gau_io.c(228): Wrote /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm/variances [57x4x64 array]
-Sat Sep 10 17:56:12 2016
-Current Overall Likelihood Per Frame = -206.36205767902
-Convergence ratio = 7.85549332654446
+INFO: s3mixw_io.c(233): Wrote /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm/mixture_weights [171x4x64 array]
+INFO: s3tmat_io.c(176): Wrote /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm/transition_matrices [57x3x4 array]
+INFO: s3gau_io.c(228): Wrote /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm/means [57x4x64 array]
+INFO: s3gau_io.c(228): Wrote /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm/variances [57x4x64 array]
+Fri Oct  7 00:29:22 2016
+Current Overall Likelihood Per Frame = -202.618091875823
+Convergence ratio = 5.98399981325866

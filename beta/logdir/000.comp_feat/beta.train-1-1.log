@@ -2807,7 +2807,6 @@ INFO: sphinx_fe.c(764): Converting /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/t
 INFO: sphinx_fe.c(764): Converting /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/train/speaker_03/2748.wav to /home/nguyenchanh/Git_Hub/beta_1.1/beta/feat/train/speaker_03/2748.mfc
 INFO: sphinx_fe.c(764): Converting /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/train/speaker_03/2749.wav to /home/nguyenchanh/Git_Hub/beta_1.1/beta/feat/train/speaker_03/2749.mfc
 INFO: sphinx_fe.c(764): Converting /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/train/speaker_03/2750.wav to /home/nguyenchanh/Git_Hub/beta_1.1/beta/feat/train/speaker_03/2750.mfc
-ERROR: "sphinx_fe.c", line 118: Failed to open /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/train/speaker_03/2750.wav: No such file or directory
 INFO: sphinx_fe.c(764): Converting /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/train/speaker_03/2751.wav to /home/nguyenchanh/Git_Hub/beta_1.1/beta/feat/train/speaker_03/2751.mfc
 INFO: sphinx_fe.c(764): Converting /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/train/speaker_03/2752.wav to /home/nguyenchanh/Git_Hub/beta_1.1/beta/feat/train/speaker_03/2752.mfc
 INFO: sphinx_fe.c(764): Converting /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/train/speaker_03/2753.wav to /home/nguyenchanh/Git_Hub/beta_1.1/beta/feat/train/speaker_03/2753.mfc
@@ -3207,4 +3206,4 @@ INFO: sphinx_fe.c(764): Converting /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/t
 INFO: sphinx_fe.c(764): Converting /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/train/speaker_09/3147.wav to /home/nguyenchanh/Git_Hub/beta_1.1/beta/feat/train/speaker_09/3147.mfc
 INFO: sphinx_fe.c(764): Converting /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/train/speaker_09/3148.wav to /home/nguyenchanh/Git_Hub/beta_1.1/beta/feat/train/speaker_09/3148.mfc
 INFO: sphinx_fe.c(764): Converting /home/nguyenchanh/Git_Hub/beta_1.1/beta/wav/train/speaker_09/3149.wav to /home/nguyenchanh/Git_Hub/beta_1.1/beta/feat/train/speaker_09/3149.mfc
-Wed Oct  5 00:04:49 2016
+Thu Oct  6 23:58:33 2016

@@ -1,22 +1,22 @@
 Current configuration:
 [NAME]		[DEFLT]	[VALUE]
--dest_meanfn		/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/means
--dest_mixwfn		/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights
--dest_moddeffn		/home/nguyenchanh/Documents/beta/model_architecture/beta.ci.mdef
--dest_tmatfn		/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices
+-dest_meanfn		/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/means
+-dest_mixwfn		/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights
+-dest_moddeffn		/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_architecture/beta.ci.mdef
+-dest_tmatfn		/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices
 -dest_ts2cbfn		.ptm.
--dest_varfn		/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/variances
+-dest_varfn		/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/variances
 -example	no	no
 -fullvar	no	no
 -help		no	no
--src_meanfn		/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/means
--src_mixwfn		/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights
--src_moddeffn		/home/nguyenchanh/Documents/beta/model_architecture/beta.ci.mdef
--src_tmatfn		/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices
+-src_meanfn		/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/means
+-src_mixwfn		/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights
+-src_moddeffn		/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_architecture/beta.ci.mdef
+-src_tmatfn		/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices
 -src_ts2cbfn		.semi.
--src_varfn		/home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/variances
+-src_varfn		/home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/variances
 
-INFO: main.c(261): Reading src /home/nguyenchanh/Documents/beta/model_architecture/beta.ci.mdef
+INFO: main.c(261): Reading src /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_architecture/beta.ci.mdef
 INFO: model_def_io.c(573): Model definition info:
 INFO: model_def_io.c(574): 57 total models defined (57 base, 0 tri)
 INFO: model_def_io.c(575): 228 total states
@@ -26,15 +26,15 @@ INFO: model_def_io.c(578): 57 total tied transition matrices
 INFO: model_def_io.c(579): 4 max state/model
 INFO: model_def_io.c(580): 4 min state/model
 INFO: main.c(272): Generating semi-continous ts2cb mapping
-INFO: main.c(299): Reading src /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights
-INFO: s3mixw_io.c(117): Read /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights [171x4x64 array]
-INFO: main.c(309): Reading src /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices
-INFO: s3tmat_io.c(118): Read /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices [57x3x4 array]
-INFO: main.c(318): Reading src /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/means
-INFO: s3gau_io.c(169): Read /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/means [1x4x64 array]
-INFO: main.c(342): Reading src /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/variances
-INFO: s3gau_io.c(169): Read /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/variances [1x4x64 array]
-INFO: main.c(391): Reading dest /home/nguyenchanh/Documents/beta/model_architecture/beta.ci.mdef
+INFO: main.c(299): Reading src /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights
+INFO: s3mixw_io.c(117): Read /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights [171x4x64 array]
+INFO: main.c(309): Reading src /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices
+INFO: s3tmat_io.c(118): Read /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices [57x3x4 array]
+INFO: main.c(318): Reading src /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/means
+INFO: s3gau_io.c(169): Read /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/means [1x4x64 array]
+INFO: main.c(342): Reading src /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/variances
+INFO: s3gau_io.c(169): Read /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/variances [1x4x64 array]
+INFO: main.c(391): Reading dest /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_architecture/beta.ci.mdef
 INFO: model_def_io.c(573): Model definition info:
 INFO: model_def_io.c(574): 57 total models defined (57 base, 0 tri)
 INFO: model_def_io.c(575): 228 total states
@@ -160,14 +160,14 @@ INFO: main.c(463): Alloc 57x4x64 dest mean and var
 [mx   162(0) +=   162] [mg    54(0) <-     0] [mx   163(1) +=   163] [mx   164(2) +=   164] 
          v <- v         : [tm    55 +=    55]
 [mx   165(0) +=   165] [mg    55(0) <-     0] [mx   166(1) +=   166] [mx   167(2) +=   167] 
-         y <- y         : INFO: main.c(529): Writing dest /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices
-INFO: s3tmat_io.c(176): Wrote /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices [57x3x4 array]
-INFO: main.c(540): Writing dest /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights
-INFO: s3mixw_io.c(233): Wrote /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights [171x4x64 array]
-INFO: main.c(549): Writing dest /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/means
-INFO: s3gau_io.c(228): Wrote /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/means [57x4x64 array]
-INFO: main.c(561): Writing dest /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/variances
-INFO: s3gau_io.c(228): Wrote /home/nguyenchanh/Documents/beta/model_parameters/beta.ci_ptm_flatinitial/variances [57x4x64 array]
+         y <- y         : INFO: main.c(529): Writing dest /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices
+INFO: s3tmat_io.c(176): Wrote /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/transition_matrices [57x3x4 array]
+INFO: main.c(540): Writing dest /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights
+INFO: s3mixw_io.c(233): Wrote /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/mixture_weights [171x4x64 array]
+INFO: main.c(549): Writing dest /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/means
+INFO: s3gau_io.c(228): Wrote /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/means [57x4x64 array]
+INFO: main.c(561): Writing dest /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/variances
+INFO: s3gau_io.c(228): Wrote /home/nguyenchanh/Git_Hub/beta_1.1/beta/model_parameters/beta.ci_ptm_flatinitial/variances [57x4x64 array]
 [tm    56 +=    56]
 [mx   168(0) +=   168] [mg    56(0) <-     0] [mx   169(1) +=   169] [mx   170(2) +=   170] 
-Sat Sep 10 17:54:02 2016
+Fri Oct  7 00:00:30 2016
